@@ -1,6 +1,6 @@
 # Hey, It's Mohamed
+Corrected version:
 
-I am passionate software engineer focused on backend and fullstack web development.
-The language I am more familiar with are Python and JavaScript/TypeScript.
+I am a passionate software engineer focused on backend and full-stack web development. The languages I am most familiar with are Python and JavaScript/TypeScript.
 
-I also have a raising interest on Edge AI and federated learning.
+I also have a growing interest in edge AI and federated learning.
