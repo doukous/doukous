@@ -1,5 +1,4 @@
 # Hey, It's Mohamed
-Corrected version:
 
 I am a passionate software engineer focused on backend and full-stack web development. The languages I am most familiar with are Python and JavaScript/TypeScript.
 
