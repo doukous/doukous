@@ -1,5 +1,7 @@
-# Hey, It's Mohamed
+# Hello world :wave:
 
-I am a passionate software engineer focused on backend and full-stack web development. The languages I am most familiar with are Python and JavaScript/TypeScript.
+My name is Mohamed Doucouré. I am a software engineer mainly focused on backend development, with experience in web scraping and data extraction.
 
-I also have a growing interest in edge AI and federated learning.
+I mostly work on scrapers, APIs, and data-processing backends.
+
+I am exploring AI topics, particularly Edge AI and AI for healthcare, and I have an interest in mobile app development with React Native.
